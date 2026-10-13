@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="visualization.milkdrop"
+  version="2.0.0"
+  name="MilkDrop"
+  provider-name="Team XBMC">
+  <extension
+    point="xbmc.player.musicviz"
+    library_xbox="MilkDrop.vis"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <description lang="en_GB">MilkDrop was originally a music visualiser "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <platform>xbox</platform>
+    <license>GPL-2.0</license>
+    <source>https://github.com/xbmc4xbox/visualization.milkdrop</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+      <screenshot>resources/screenshot-01.jpg</screenshot>
+      <screenshot>resources/screenshot-02.jpg</screenshot>
+      <screenshot>resources/screenshot-03.jpg</screenshot>
+      <screenshot>resources/screenshot-04.jpg</screenshot>
+      <screenshot>resources/screenshot-05.jpg</screenshot>
+      <screenshot>resources/screenshot-06.jpg</screenshot>
+    </assets>
+  </extension>
+</addon>

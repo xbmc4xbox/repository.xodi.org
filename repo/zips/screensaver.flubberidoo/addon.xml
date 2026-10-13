@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="screensaver.flubberidoo"
+  version="1.0.0"
+  name="Flubberidoo"
+  provider-name="Team Resurgent">
+  <requires>
+    <import addon="kodi.binary.global.main" minversion="2.0.0" version="2.0.2"/>
+    <import addon="kodi.binary.global.filesystem" minversion="1.1.7" version="1.1.9"/>
+    <import addon="kodi.binary.instance.screensaver" minversion="2.2.0" version="2.2.0"/>
+  </requires>
+  <extension
+    point="xbmc.ui.screensaver"
+    library_xbox="Flubberidoo.xbs"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>xbox</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/Team-Resurgent/screensaver.flubberidoo</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+      <screenshot>resources/screenshot-01.jpg</screenshot>
+      <screenshot>resources/screenshot-02.jpg</screenshot>
+    </assets>
+    <summary lang="en_GB">Flubberidoo boot-animation screensaver</summary>
+    <description lang="en_GB">A faithful D3D8 re-creation of the classic Xbox boot animation: the gooey &quot;flubber&quot; blob pulsing at the heart of a slowly rotating scene while the camera drifts around it, wrapped in shimmering shields. Loops endlessly (no end logo, no sound). Fully themeable from the addon settings.</description>
+  </extension>
+</addon>
