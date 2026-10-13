@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="script.python.test" name="Python 3" version="1.0.0" provider-name="Team Xodi">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en_GB">Test Python</summary>
+    <description lang="en_GB">This addon prints Python and OpenSSL version.</description>
+    <language>en</language>
+    <license>Apache-2.0</license>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon></addons>
