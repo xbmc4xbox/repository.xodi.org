@@ -25,6 +25,7 @@ IGNORE = [
 
 
 def _setup_colors():
+    return False
     color = os.system("color")
     console = 0
     if os.name == 'nt':  # Only if we are running on Windows
@@ -195,7 +196,7 @@ class Generator:
         for ext in root.findall("extension"):
             if ext.get("point") in ["xbmc.addon.metadata", "kodi.addon.metadata"]:
                 assets = ext.find("assets")
-                if not assets:
+                if assets is None:
                     continue
                 for art in [a for a in assets if a.text]:
                     copyfiles.append(os.path.normpath(art.text))
