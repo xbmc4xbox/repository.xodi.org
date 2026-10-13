@@ -1,0 +1,90 @@
+[submodule "omega/metadata.programs.nekoScraper"]
+	path = omega/metadata.programs.nekoScraper
+	url = https://github.com/faithvoid/metadata.programs.nekoScraper.git
+[submodule "omega/plugin.audio.fmstream"]
+	path = omega/plugin.audio.fmstream
+	url = https://github.com/antonic901/plugin.audio.fmstream.git
+[submodule "omega/plugin.audio.shoutcast"]
+	path = omega/plugin.audio.shoutcast
+	url = https://github.com/xbmc4xbox/plugin.audio.shoutcast.git
+[submodule "omega/plugin.video.invidious"]
+	path = omega/plugin.video.invidious
+	url = https://github.com/antonic901/plugin.video.invidious.git
+[submodule "omega/plugin.video.jellycon"]
+	path = omega/plugin.video.jellycon
+	url = https://github.com/xbmc4xbox/plugin.video.jellycon.git
+[submodule "omega/script.keymap"]
+	path = omega/script.keymap
+	url = https://github.com/xbmc4xbox/script.keymap.git
+[submodule "omega/script.module.addon.signals"]
+	path = omega/script.module.addon.signals
+	url = https://github.com/xbmc4xbox/script.module.addon.signals.git
+[submodule "omega/script.module.beautifulsoup4"]
+	path = omega/script.module.beautifulsoup4
+	url = https://github.com/xbmc4xbox/script.module.beautifulsoup4.git
+[submodule "omega/script.module.certifi"]
+	path = omega/script.module.certifi
+	url = https://github.com/xbmc4xbox/script.module.certifi.git
+[submodule "omega/script.module.chardet"]
+	path = omega/script.module.chardet
+	url = https://github.com/xbmc4xbox/script.module.chardet.git
+[submodule "omega/script.module.dateutil"]
+	path = omega/script.module.dateutil
+	url = https://github.com/xbmc4xbox/script.module.dateutil.git
+[submodule "omega/script.module.defusedxml"]
+	path = omega/script.module.defusedxml
+	url = https://github.com/xbmc4xbox/script.module.defusedxml.git
+[submodule "omega/script.module.future"]
+	path = omega/script.module.future
+	url = https://github.com/xbmc4xbox/script.module.future.git
+[submodule "omega/script.module.futures"]
+	path = omega/script.module.futures
+	url = https://github.com/xbmc4xbox/script.module.futures.git
+[submodule "omega/script.module.idna"]
+	path = omega/script.module.idna
+	url = https://github.com/xbmc4xbox/script.module.idna.git
+[submodule "omega/script.module.kodi-six"]
+	path = omega/script.module.kodi-six
+	url = https://github.com/xbmc4xbox/script.module.kodi-six.git
+[submodule "omega/script.module.limpp"]
+	path = omega/script.module.limpp
+	url = https://github.com/xbmc4xbox/script.module.limpp.git
+[submodule "omega/script.module.requests"]
+	path = omega/script.module.requests
+	url = https://github.com/xbmc4xbox/script.module.requests.git
+[submodule "omega/script.module.requests.lite"]
+	path = omega/script.module.requests.lite
+	url = https://github.com/xbmc4xbox/script.module.requests.lite.git
+[submodule "omega/script.module.simplejson"]
+	path = omega/script.module.simplejson
+	url = https://github.com/xbmc4xbox/script.module.simplejson.git
+[submodule "omega/script.module.simpleplugin3"]
+	path = omega/script.module.simpleplugin3
+	url = https://github.com/xbmc4xbox/script.module.simpleplugin3.git
+[submodule "omega/script.module.six"]
+	path = omega/script.module.six
+	url = https://github.com/xbmc4xbox/script.module.six.git
+[submodule "omega/script.module.urllib3"]
+	path = omega/script.module.urllib3
+	url = https://github.com/xbmc4xbox/script.module.urllib3.git
+[submodule "omega/script.module.websocket"]
+	path = omega/script.module.websocket
+	url = https://github.com/xbmc4xbox/script.module.websocket.git
+[submodule "omega/script.module.xbeinfo"]
+	path = omega/script.module.xbeinfo
+	url = https://github.com/xbmc4xbox/script.module.xbeinfo.git
+[submodule "omega/script.module.xbmcswift2"]
+	path = omega/script.module.xbmcswift2
+	url = https://github.com/xbmc4xbox/script.module.xbmcswift2.git
+[submodule "omega/script.module.xmltodict"]
+	path = omega/script.module.xmltodict
+	url = https://github.com/xbmc4xbox/script.module.xmltodict.git
+[submodule "omega/script.program.xiso.installer"]
+	path = omega/script.program.xiso.installer
+	url = https://github.com/xbmc4xbox/script.program.xiso.installer.git
+[submodule "omega/service.subtitles.opensubtitles"]
+	path = omega/service.subtitles.opensubtitles
+	url = https://github.com/xbmc4xbox/service.subtitles.opensubtitles.git
+[submodule "omega/weather.gismeteo"]
+	path = omega/weather.gismeteo
+	url = https://github.com/xbmc4xbox/weather.gismeteo.git
