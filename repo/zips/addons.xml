@@ -45,28 +45,6 @@
     <summary lang="en_GB">Flubberidoo boot-animation screensaver</summary>
     <description lang="en_GB">A faithful D3D8 re-creation of the classic Xbox boot animation: the gooey "flubber" blob pulsing at the heart of a slowly rotating scene while the camera drifts around it, wrapped in shimmering shields. Loops endlessly (no end logo, no sound). Fully themeable from the addon settings.</description>
   </extension>
-</addon><addon id="screensaver.matrixtrails" version="21.0.2" name="Matrix trails" provider-name="spiff">
-  <requires>
-    <import addon="kodi.binary.global.main" minversion="2.0.0" version="2.0.2" />
-    <import addon="kodi.binary.global.gui" minversion="5.15.0" version="5.15.0" />
-    <import addon="kodi.binary.global.filesystem" minversion="1.1.7" version="1.1.9" />
-    <import addon="kodi.binary.instance.screensaver" minversion="2.2.0" version="2.2.0" />
-  </requires>
-  <extension point="xbmc.ui.screensaver" library_xbox="MatrixTrails.xbs" />
-  <extension point="xbmc.addon.metadata">
-    <platform>xbox</platform>
-    <license>GPL-2.0-or-later</license>
-    <source>https://github.com/xbmc4xbox/screensaver.matrixtrails</source>
-    <assets>
-      <icon>resources/icon.png</icon>
-      <fanart>resources/fanart.jpg</fanart>
-      <screenshot>resources/screenshot-01.jpg</screenshot>
-      <screenshot>resources/screenshot-02.jpg</screenshot>
-      <screenshot>resources/screenshot-01.jpg</screenshot>
-    </assets>
-    <summary lang="en_GB">Matrix trails screensaver</summary>
-    <description lang="en_GB">The "digital rain" effect, as seen on the computer monitors in "The Matrix".[CR][CR]In its settings you can also define your own colors and sizes of rain.</description>
-  </extension>
 </addon><addon id="visualization.milkdrop" version="2.0.0" name="MilkDrop" provider-name="Team XBMC">
   <extension point="xbmc.player.musicviz" library_xbox="MilkDrop.vis" />
   <extension point="xbmc.addon.metadata">
